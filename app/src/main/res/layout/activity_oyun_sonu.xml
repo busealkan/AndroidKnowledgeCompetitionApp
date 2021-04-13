@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/logoYaziRengi"
+    tools:context=".activities.OyunSonuActivity">
+
+    <ImageView
+        android:id="@+id/imgBasariliOyun"
+        android:layout_width="@dimen/iconBoyut"
+        android:layout_height="@dimen/iconBoyut"
+        android:layout_marginTop="68dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/basarili" />
+
+    <TextView
+        android:id="@+id/txtTebrikler"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="@string/tebrikler"
+        android:textColor="@color/logoRengi"
+        android:textSize="@dimen/yaziBuyukBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgBasariliOyun" />
+
+    <TextView
+        android:id="@+id/txtSoruSayi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"
+        android:textColor="@color/logoRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.297"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtTebrikler"
+        tools:text="@string/kacinciSoru" />
+
+    <TextView
+        android:id="@+id/txtOyunPuani"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:textColor="@color/logoRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.298"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtSoruSayi"
+        tools:text="@string/puan" />
+
+    <Button
+        android:id="@+id/btnAnasayfayaDon"
+        android:layout_width="@dimen/anaSayfaButonBoyut"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:background="@drawable/btn_design"
+        android:drawableLeft="@drawable/homepageicon"
+        android:gravity="center"
+        android:text="@string/anasayfayaDon"
+        android:textColor="@color/logoYaziRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtOyunPuani" />
+
+    <Button
+        android:id="@+id/buttonCikisYap"
+        android:layout_width="@dimen/cikisButonBoyut"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/btn_design"
+        android:drawableLeft="@drawable/exiticon"
+        android:gravity="center"
+        android:text="@string/cikis"
+        android:textColor="@color/logoYaziRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnAnasayfayaDon" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

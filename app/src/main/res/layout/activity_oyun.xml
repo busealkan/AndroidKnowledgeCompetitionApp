@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/logoYaziRengi"
+    tools:context=".activities.OyunActivity">
+
+
+    <TextView
+        android:id="@+id/txtKacinciSoru"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:text="@string/kacinciSoru"
+        android:textColor="@color/logoRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.053"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnKategoriIcon" />
+
+    <TextView
+        android:id="@+id/txtPuan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="80dp"
+        android:text="@string/puan"
+        android:textColor="@color/logoRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnKategoriAdi" />
+
+    <TextView
+        android:id="@+id/txtSoru"
+        android:layout_width="@dimen/soruBoyut"
+        android:layout_height="129dp"
+        android:layout_marginTop="52dp"
+        android:background="@drawable/btn_design"
+        android:gravity="center"
+        android:textColor="@color/logoYaziRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtKacinciSoru"
+        tools:text="SORU" />
+
+    <Button
+        android:id="@+id/btnCevap4"
+        android:layout_width="@dimen/cevapButonBoyut"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_cevap_design"
+        android:gravity="center"
+        android:textColor="@color/logoRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCevap3"
+        tools:text="Cevap 4" />
+
+    <Button
+        android:id="@+id/btnCevap3"
+        android:layout_width="@dimen/cevapButonBoyut"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:background="@drawable/btn_cevap_design"
+        android:gravity="center"
+        android:textColor="@color/logoRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCevap2"
+        tools:text="Cevap 3" />
+
+    <Button
+        android:id="@+id/btnCevap1"
+        android:layout_width="@dimen/cevapButonBoyut"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="116dp"
+        android:background="@drawable/btn_cevap_design"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:textColor="@color/logoRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtSoru"
+        tools:text="Cevap 1" />
+
+    <Button
+        android:id="@+id/btnCevap2"
+        android:layout_width="@dimen/cevapButonBoyut"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_cevap_design"
+        android:gravity="center"
+        android:textColor="@color/logoRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCevap1"
+        tools:text="Cevap 2" />
+
+    <Button
+        android:id="@+id/btnKategoriAdi"
+        android:layout_width="@dimen/kategoriAdGetirBoyut"
+        android:layout_height="wrap_content"
+        android:background="@color/logoRengi"
+        android:gravity="center"
+        android:textColor="@color/logoYaziRengi"
+        android:textSize="@dimen/yaziBoyut"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="@string/kategoriAdi" />
+
+    <Button
+        android:id="@+id/btnKategoriIcon"
+        android:layout_width="@dimen/kategoriIconBoyut"
+        android:layout_height="0dp"
+        android:background="@color/logoRengi"
+        android:textColor="@color/logoYaziRengi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="@string/kategoriIcon" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

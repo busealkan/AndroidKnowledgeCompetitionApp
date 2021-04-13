@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingBoyut">10dp</dimen>
+    <dimen name="radiusBoyut">8dp</dimen>
+    <dimen name="borderBoyut">3dp</dimen>
+
+    <dimen name="logoBoyut">250dp</dimen>
+    <dimen name="yaziBoyut">20dp</dimen>
+    <dimen name="yaziBuyukBoyut">40dp</dimen>
+
+    <dimen name="iconBoyut">150dp</dimen>
+    <dimen name="oyuncuAdiBilgiBoyut">125dp</dimen>
+    <dimen name="userIconBoyut">25dp</dimen>
+    <dimen name="oyuncuAdiBoyut">300dp</dimen>
+    <dimen name="ileriButonBoyut">300dp</dimen>
+
+    <dimen name="soruBoyut">300dp</dimen>
+
+    <dimen name="kategoriIconBoyut">50dp</dimen>
+    <dimen name="kategoriIconPadding">10dp</dimen>
+    <dimen name="kategoriButonBoyut">300dp</dimen>
+    <dimen name="cikisButonBoyut">300dp</dimen>
+
+    <dimen name="kategoriAdGetirBoyut">410dp</dimen>
+
+    <dimen name="cevapButonBoyut">300dp</dimen>
+    <dimen name="anaSayfaButonBoyut">300dp</dimen>
+
+    <dimen name="hatalıCevapBoyut">300dp</dimen>
+</resources>

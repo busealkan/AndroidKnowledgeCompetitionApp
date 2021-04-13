@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">H5190059_BuseAlkan</string>
+
+
+    <string name="oyuncuAdi">Oyuncu Adı :</string>
+    <string name="oyuncuAdiGiriniz">Oyuncu Adı Giriniz</string>
+    <string name="butonIleri">İLERİ</string>
+
+    <string name="snackbarYazi">OYUNCU ADI ALANI BOŞ BIRAKILAMAZ</string>
+
+    <string name="alertCikisTitle">Çıkış Yap?</string>
+    <string name="alertCikisMessage">Uygulamadan Çıkış Yapılsın Mı?</string>
+    <string name="alertCikisNegativeButon">Hayır</string>
+    <string name="alertCikisPozitifButon">Evet</string>
+
+    <string name="alertDogruCevapTitle">Çıkış Yap?</string>
+    <string name="alertDogruCevapNegativeButon">Hayır</string>
+    <string name="alertDogruCevapPozitifButon">Evet</string>
+
+    <string name="hosgeldin">HOŞGELDİN, </string>
+    <string name="kacinciSoru">SORU :</string>
+    <string name="puan">PUAN :</string>
+    <string name="oyunBitti">OYUN BİTTİ</string>
+    <string name="tebrikler">TEBRİKLER</string>
+
+    <string name="kategoriIcon">ICON</string>
+    <string name="kategoriAdi">KATEGORİ ADI</string>
+    <string name="kategoriTeknoloji">TEKNOLOJİ</string>
+    <string name="kategoriMuzik">MÜZİK</string>
+    <string name="kategoriSpor">SPOR</string>
+    <string name="kategoriFilm">FİLM</string>
+
+
+    <string name="cikis">ÇIKIŞ</string>
+    <string name="anasayfayaDon">ANASAYFAYA DÖN</string>
+
+
+    <string name="soruTeknoloji1">1 Bayt Kaç Bittir?</string>
+    <string name="soruTeknoloji2">Apple Firması Kaç Yılında Kurulmuştur?</string>
+    <string name="soruTeknoloji3">LG Markasının Açılımı Nedir?</string>
+    <string name="soruTeknoloji4">Türkiye’de İlk İnternete Hangi Kurumdan Bağlanılmıştır?</string>
+    <string name="soruTeknoloji5">Aşağıdakilerden Hangisi Youtube Kurucularından Birisi Değildir?</string>
+
+    <string name="soru1Cevap1Teknoloji">2</string>
+    <string name="soru1Cevap2Teknoloji">4</string>
+    <string name="soru1Cevap3Teknoloji">8</string>
+    <string name="soru1Cevap4Teknoloji">16</string>
+    <string name="soru1DogruCevapTeknoloji">8</string>
+
+    <string name="soru2Cevap1Teknoloji">1971</string>
+    <string name="soru2Cevap2Teknoloji">1976</string>
+    <string name="soru2Cevap3Teknoloji">1994</string>
+    <string name="soru2Cevap4Teknoloji">1998</string>
+    <string name="soru2DogruCevapTeknoloji">1976</string>
+
+
+    <string name="soru3Cevap1Teknoloji">LIFE IS GOOD</string>
+    <string name="soru3Cevap2Teknoloji">LUCKY</string>
+    <string name="soru3Cevap3Teknoloji">GOLDSTAR</string>
+    <string name="soru3Cevap4Teknoloji">LUCKY GOLDSTAR</string>
+    <string name="soru3DogruCevapTeknoloji">LIFE IS GOOD</string>
+
+
+    <string name="soru4Cevap1Teknoloji">İTÜ</string>
+    <string name="soru4Cevap2Teknoloji">YTÜ</string>
+    <string name="soru4Cevap3Teknoloji">BOÜN</string>
+    <string name="soru4Cevap4Teknoloji">ODTÜ</string>
+    <string name="soru4DogruCevapTeknoloji">ODTÜ</string>
+
+    <string name="soru5Cevap1Teknoloji">JAWED KARIM</string>
+    <string name="soru5Cevap2Teknoloji">STEVE CHEN</string>
+    <string name="soru5Cevap3Teknoloji">CHAD HURLEY</string>
+    <string name="soru5Cevap4Teknoloji">MARK ZUCKERBERG</string>
+    <string name="soru5DogruCevapTeknoloji">MARK ZUCKERBERG</string>
+
+
+    <string name="soruMuzik1">2003 Eurovision Yarışmasında Birinci Olan Sanatçımız Kimdir?</string>
+    <string name="soruMuzik2">Aşağıdakilerden Hangisi Metallica Grup Üyelerinden Değildir?</string>
+    <string name="soruMuzik3">Müzik Seslerini Yazmak İçin Kullandığımız Notalar Kaç Tanedir?</string>
+    <string name="soruMuzik4">İstiklal Marşının Bestecisi Kimdir?</string>
+    <string name="soruMuzik5">Perdesiz Gitarın Mucidi Ünlü Sanatçımızın Adı Nedir?</string>
+
+    <string name="soru1Cevap1Muzik">MANGA</string>
+    <string name="soru1Cevap2Muzik">HADİSE</string>
+    <string name="soru1Cevap3Muzik">ATHENA</string>
+    <string name="soru1Cevap4Muzik">SERTAP ERENER</string>
+    <string name="soru1DogruCevapMuzik">SERTAP ERENER</string>
+
+    <string name="soru2Cevap1Muzik">STEVE HARRIS</string>
+    <string name="soru2Cevap2Muzik">LARS ULRICH</string>
+    <string name="soru2Cevap3Muzik">KIRK HAMMETT</string>
+    <string name="soru2Cevap4Muzik">JAMES HETFIELD</string>
+    <string name="soru2DogruCevapMuzik">STEVE HARRIS</string>
+
+    <string name="soru3Cevap1Muzik">6</string>
+    <string name="soru3Cevap2Muzik">7</string>
+    <string name="soru3Cevap3Muzik">8</string>
+    <string name="soru3Cevap4Muzik">9</string>
+    <string name="soru3DogruCevapMuzik">8</string>
+
+    <string name="soru4Cevap1Muzik">OSMAN ZEKİ ÜNGÖR</string>
+    <string name="soru4Cevap2Muzik">BEKİR SAMİ KUNDUH</string>
+    <string name="soru4Cevap3Muzik">MEHMET AKİF ERSOY</string>
+    <string name="soru4Cevap4Muzik">ALİ RIFAT ÇAĞATAY</string>
+    <string name="soru4DogruCevapMuzik">OSMAN ZEKİ ÜNGÖR</string>
+
+    <string name="soru5Cevap1Muzik">ERKAN OĞUR</string>
+    <string name="soru5Cevap2Muzik">BÜLENT ORTAÇGİL</string>
+    <string name="soru5Cevap3Muzik">YAVUZ ÇETİN</string>
+    <string name="soru5Cevap4Muzik">FİKRET KIZILOK</string>
+    <string name="soru5DogruCevapMuzik">BÜLENT ORTAÇGİL</string>
+
+
+    <string name="soruSpor1">Aşağıdakilerden Hangisi Atletizimde Atlama Branşıdır?</string>
+    <string name="soruSpor2">Basket Maçlarında Her Periyot Kaç Dakikadır ?</string>
+    <string name="soruSpor3">"Degaj" Hangi Spor Dalıyla İlgili Bir Kavramdır?</string>
+    <string name="soruSpor4">Voleybolda Set Sayısı Kaçtır?</string>
+    <string name="soruSpor5">Fenerbahçede 100 Gol Rekorunun Kırıldığı Sezon 100.Golü Hangi Futbolcu Atmıştır?</string>
+
+    <string name="soru1Cevap1Spor">ÇEKİÇ</string>
+    <string name="soru1Cevap2Spor">DİSK</string>
+    <string name="soru1Cevap3Spor">YÜKSEK</string>
+    <string name="soru1Cevap4Spor">CİRİT</string>
+    <string name="soru1DogruCevapSpor">YÜKSEK</string>
+
+    <string name="soru2Cevap1Spor">10</string>
+    <string name="soru2Cevap2Spor">20</string>
+    <string name="soru2Cevap3Spor">30</string>
+    <string name="soru2Cevap4Spor">40</string>
+    <string name="soru2DogruCevapSpor">10</string>
+
+    <string name="soru3Cevap1Spor">BASKETBOL</string>
+    <string name="soru3Cevap2Spor">VOLEYBOL</string>
+    <string name="soru3Cevap3Spor">ATLETİZM</string>
+    <string name="soru3Cevap4Spor">FUTBOL</string>
+    <string name="soru3DogruCevapSpor">FUTBOL</string>
+
+    <string name="soru4Cevap1Spor">20</string>
+    <string name="soru4Cevap2Spor">25</string>
+    <string name="soru4Cevap3Spor">30</string>
+    <string name="soru4Cevap4Spor">35</string>
+    <string name="soru4DogruCevapSpor">25</string>
+
+    <string name="soru5Cevap1Spor">TURHAN SOFUOĞLU</string>
+    <string name="soru5Cevap2Spor">AYKUT KOCAMAN</string>
+    <string name="soru5Cevap3Spor">RIDVAN DİLMEN </string>
+    <string name="soru5Cevap4Spor">ALEX DE SOUZA</string>
+    <string name="soru5DogruCevapSpor">TURHAN SOFUOĞLU</string>
+
+
+    <string name="soruFilm1">Hababam Sınıfı Filmi Hangi Yazarın Aynı İsimli Romanından Uyarlanmıştır?</string>
+    <string name="soruFilm2">Hobbit Film Serisinin Ünlü Yönetmeni Kimdir?</string>
+    <string name="soruFilm3">Lord Voldemortun Korktuğu Tek Büyücü Kimdir?</string>
+    <string name="soruFilm4">Sinemada James Bond karakterini İlk Canlandıran Aktör Kimdir?</string>
+    <string name="soruFilm5">Aşağıdakilerden Hangisi Iron Man Karakterini Canlandıran Aktördür?</string>
+
+
+    <string name="soru1Cevap1Film">RIFAT ILGAZ</string>
+    <string name="soru1Cevap2Film">AZİZ NESİN</string>
+    <string name="soru1Cevap3Film">ERTEM EĞİLMEZ</string>
+    <string name="soru1Cevap4Film">SABAHATTİN ALİ</string>
+    <string name="soru1DogruCevapFilm">RIFAT ILGAZ</string>
+
+    <string name="soru2Cevap1Film">RIDLEY SCOTT</string>
+    <string name="soru2Cevap2Film">BRYAN SINGER</string>
+    <string name="soru2Cevap3Film">PETER JACKSON</string>
+    <string name="soru2Cevap4Film">JON FAVREAU</string>
+    <string name="soru2DogruCevapFilm">PETER JACKSON</string>
+
+    <string name="soru3Cevap1Film">HARRY POTTER</string>
+    <string name="soru3Cevap2Film">SEVERUS SNAPE</string>
+    <string name="soru3Cevap3Film">MINERVA MCGONAGALL</string>
+    <string name="soru3Cevap4Film">ALBUS DUMBLEDORE</string>
+    <string name="soru3DogruCevapFilm">ALBUS DUMBLEDORE</string>
+
+    <string name="soru4Cevap1Film">ROGER MOORE</string>
+    <string name="soru4Cevap2Film">SEAN CONNERY</string>
+    <string name="soru4Cevap3Film">PIERCE BROSNAN</string>
+    <string name="soru4Cevap4Film">BRAD PITT</string>
+    <string name="soru4DogruCevapFilm">SEAN CONNERY</string>
+
+    <string name="soru5Cevap1Film">CHRIS EVANS</string>
+    <string name="soru5Cevap2Film">JEREMY RENNER</string>
+    <string name="soru5Cevap3Film">ROBERT DOWNEY JR.</string>
+    <string name="soru5Cevap4Film">MARK RUFFALO</string>
+    <string name="soru5DogruCevapFilm">ROBERT DOWNEY JR.</string>
+
+
+</resources>

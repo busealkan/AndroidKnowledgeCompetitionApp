@@ -1,15 +1,15 @@
 ## Knowledge Competition App
-<p align="center"><img height="300" width="300" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/logo.png"/></p>
+<p align="center"><img height="200" width="200" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/logo.png"/></p>
 Projede oyuncu isim girişi yaptıktan sonra kategoriler listelenerek ve oyuncunun seçmiş olduğu kategoriye göre soruların getirildiği bilgi yarışmayı oyunudur.
 
 ## Outputs
 <p>
-  <img height="300" width="400" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E1.png" alt="SS1"/>
-  <img height="300" width="400" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E2.png" alt="SS2"/>
-  <img height="300" width="400" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E3.png" alt="SS3"/>
-  <img height="300" width="400" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E4.png" alt="SS4"/>
-  <img height="300" width="400" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E5.png" alt="SS5"/>
-  <img height="300" width="400" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E6.png" alt="SS6"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E1.png" alt="SS1"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E2.png" alt="SS2"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E3.png" alt="SS3"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E4.png" alt="SS4"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E5.png" alt="SS5"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E6.png" alt="SS6"/>
 </p>
 
 

@@ -1,5 +1,5 @@
 ## Knowledge Competition App
-<p align="center"><img height="300" width="400" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/logo.jpg"/></p>
+<p align="center"><img height="300" width="400" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/logo.png"/></p>
 Projede oyuncu isim girişi yaptıktan sonra kategoriler listelenerek ve oyuncunun seçmiş olduğu kategoriye göre soruların getirildiği bilgi yarışmayı oyunudur.
 
 ## Outputs

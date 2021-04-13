@@ -4,12 +4,12 @@ Projede oyuncu isim girişi yaptıktan sonra kategoriler listelenerek ve oyuncun
 
 ## Outputs
 <p>
-  <img height="400" width="200" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E1.png" alt="SS1"/>
-  <img height="400" width="200" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E2.png" alt="SS2"/>
-  <img height="400" width="200" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E3.png" alt="SS3"/>
-  <img height="400" width="200" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E4.png" alt="SS4"/>
-  <img height="400" width="200" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E5.png" alt="SS5"/>
-  <img height="400" width="200" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E6.png" alt="SS6"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E1.png" alt="SS1"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E2.png" alt="SS2"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E3.png" alt="SS3"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E4.png" alt="SS4"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E5.png" alt="SS5"/>
+  <img height="400" width="250" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/E6.png" alt="SS6"/>
 </p>
 
 

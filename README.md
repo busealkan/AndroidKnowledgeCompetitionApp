@@ -1,6 +1,6 @@
 ## Knowledge Competition App
 <p align="center"><img height="200" width="200" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/logo.png"/></p>
-Projede oyuncu isim girişi yaptıktan sonra kategoriler listelenerek ve oyuncunun seçmiş olduğu kategoriye göre soruların getirildiği bilgi yarışmayı oyunudur.
+Projede oyuncu isim girişi yaptıktan sonra kategoriler listelenerek ve oyuncunun seçmiş olduğu kategoriye göre soruların getirildiği bilgi yarışması oyunudur.
 
 ## Outputs
 <p>

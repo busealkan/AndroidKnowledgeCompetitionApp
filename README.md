@@ -4,7 +4,7 @@ Projede oyuncu isim girişi yaptıktan sonra kategoriler listelenerek ve oyuncun
 
 ## Outputs
 <p>
-  <img height="600" width="550" src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/ekranlar.png" alt="SS1"/>
+  <img src="https://raw.githubusercontent.com/busealkan/KnowledgeCompetitionApp/master/screens/ekranlar.png" alt="SS1"/>
 
 </p>
 
